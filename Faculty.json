@@ -1,55 +1,54 @@
 [
   {
     "FacultyName": "Dr. Meeravali Shaikh",
-    "FacultyDegree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "FacultyID":"MRU01056",
     "FacultyPosition": "HOD",
-    "FacultyExperience": "13 Years",
+    
     "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
   {
     "FacultyName": "Dr. B. Jogeswara Rao",
-    "FacultyDegree": ["MSc (Comp)", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "FacultyID":"MRU0123",
     "FacultyPosition": "Associate Professor",
-    "FacultyExperience": "13 Years",
+
     "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
   
   {
     "FacultyName": "Mrs. B. Tejaswi",
-    "FacultyDegree": ["B. Tech (CSE)", "M. Tech (CNIS)", "Ph. D (Pursuing)"],
+    "FacultyID":"MRU0124",
     "FacultyPosition": "Assistant Professor",
-    "FacultyExperience": "10 Years",
+    
     "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
 
 
   {
     "FacultyName": "Mr. M. Gouthamm",
-    "FacultyDegree": ["B. Tech (CSE)", "M. Tech (CSE)"],
+    "FacultyID":"MRU0125",
     "FacultyPosition": "Assistant Professor",
-    "FacultyExperience": "9 Years",
+    
     "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
   
   {
     "FacultyName": "Mrs. S. Monika",
-    "FacultyDegree": ["B. E (CSE)", "M. E (CSE)"],
+    "FacultyID":"MRU01073",
     "FacultyPosition": "Assistant Professor",
-    "FacultyExperience": "8.8 Years",
+    
     "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
   {
     "FacultyName": "Mrs. S. Sowmya",
-    "FacultyDegree": ["B. Tech (CSIT)", "MS (CSIT)"],
+    "FacultyID":"MRU01230",
     "FacultyPosition": "Assistant Professor",
-    "FacultyExperience": "6 Years",
+ 
     "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
   {
     "FacultyName": "Mrs. K. Manasa",
-    "FacultyDegree": ["B. Tech (CSE)", "M. Tech (CSE)"],
+    "FacultyID":"MRU01101",
     "FacultyPosition": "Assistant Professor",
-    "FacultyExperience": "3.5 Years",
     "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   }
  
