@@ -1,65 +1,57 @@
-{
-  "homepage": "https://ashwikanjani.github.io/me",
-  "name": "mine",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "bootstrap": "^5.3.2",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+[
+  {
+    "FacultyName": "Dr. Meeravali Shaikh",
+    "FacultyDegree": ["B. Tech (CSE)", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "FacultyPosition": "HOD",
+    "FacultyExperience": "13 Years",
+    "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
-  "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  {
+    "FacultyName": "Dr. B. Jogeswara Rao",
+    "FacultyDegree": ["MSc (Comp)", "M. Tech (CSE)", "Ph. D (CSE)"],
+    "FacultyPosition": "Associate Professor",
+    "FacultyExperience": "13 Years",
+    "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  
+  {
+    "FacultyName": "Mrs. B. Tejaswi",
+    "FacultyDegree": ["B. Tech (CSE)", "M. Tech (CNIS)", "Ph. D (Pursuing)"],
+    "FacultyPosition": "Assistant Professor",
+    "FacultyExperience": "10 Years",
+    "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }, 	
-"1":{
-"CODE"	:"MRUE2009T005 ",
-"NAME":	"Dr.Meeravali shaik ",
-"DESIGNATION":	"HOD "
-},
 
-"2":{"CODE":"MRUE2209T131 ",
-"NAME":	"Dr.M.Narayanan ",
-"DESIGNATION":	"Professor "},
-	
-"3":{"CODE":"MRUE2203T081  ",
-"NAME":	"Dr.B.Jogeswara Rao ",
-"DESIGNATION":	"Associate Professor "},
 
-"4":{"CODE"	:"MRUE2304T204 ",
-"NAME"	:"Dr. K. Asish Vardhan ",
-"DESIGNATION":	"Associate Professor "},
-
-"5":{"CODE":	"MRUE2111T060 ",
-"NAME":	"Mr. M.Gouthamm ",
-"DESIGNATION":	"Assistant Professor "}
-
+  {
+    "FacultyName": "Mr. M. Gouthamm",
+    "FacultyDegree": ["B. Tech (CSE)", "M. Tech (CSE)"],
+    "FacultyPosition": "Assistant Professor",
+    "FacultyExperience": "9 Years",
+    "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  
+  {
+    "FacultyName": "Mrs. S. Monika",
+    "FacultyDegree": ["B. E (CSE)", "M. E (CSE)"],
+    "FacultyPosition": "Assistant Professor",
+    "FacultyExperience": "8.8 Years",
+    "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "FacultyName": "Mrs. S. Sowmya",
+    "FacultyDegree": ["B. Tech (CSIT)", "MS (CSIT)"],
+    "FacultyPosition": "Assistant Professor",
+    "FacultyExperience": "6 Years",
+    "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+  },
+  {
+    "FacultyName": "Mrs. K. Manasa",
+    "FacultyDegree": ["B. Tech (CSE)", "M. Tech (CSE)"],
+    "FacultyPosition": "Assistant Professor",
+    "FacultyExperience": "3.5 Years",
+    "FacultyImage": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
   }
+ 
+]
   
